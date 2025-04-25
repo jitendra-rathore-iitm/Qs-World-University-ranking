@@ -6,4 +6,4 @@
 
 <img src = "./Photo/pie chart.png" alt = "Pie chart">
 <img src = "./Photo/column chart.png" alt = "Column chart">
-<img src = "./Table insights.png" alt = "Table Insights">
+<img src = "./Photo/Table insights.png" alt = "Table Insights">
